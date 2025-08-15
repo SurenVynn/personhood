@@ -26,7 +26,7 @@ This project offers:
 
 ```
 /SystematicTheoryOfPersonhood
-│── personhood_theory.tex       # Main LaTeX document
+│── personhood.tex       # Main LaTeX document
 │── README.md                   # This file
 │── references.bib              # Bibliography
 │── examples/                   # Example applications of the framework
@@ -55,7 +55,7 @@ A short list of foundational works:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/yourusername/systematic-theory-of-personhood.git
+   git clone https://github.com/SurenVynn/personhood.git
    ```
 2. **Compile the LaTeX document**:
 
